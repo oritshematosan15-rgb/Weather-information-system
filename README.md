@@ -1,7 +1,7 @@
 # Weather-information-system
-Name : David Daniella
-Matric no : 24/14640
-Department : Computer Science
+* Name : David Daniella
+* Matric no : 24/14640
+* Department : Computer Science
 
 # 1. Requirement Analysis
 This system displays weather information entered by the user.
